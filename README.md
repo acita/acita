@@ -1,4 +1,4 @@
-<p align="left">👋 Hi, I’m Alex - @acita<br>👀 I’m interested in Java, Kotlin, JavaScript, Node, Team Topologies, Software Architeture, Clean Code, DDD ...<br>🌱 I’m currently working with Java and Kotlin...<br>📫 To reach me: alex_cita@hotmail.com or https://www.linkedin.com/in/acita/</p>
+<p align="left">👋 Hi, I’m Alex - @acita<br>👀 I’m interested in PHP, Java, Kotlin, JavaScript, Node, Team Topologies, Software Architeture, Clean Code, DDD ...<br>🌱 I’m currently working with PHP, Kotlin and React...<br>📫 To reach me: alex_cita@hotmail.com or https://www.linkedin.com/in/acita/</p>
 
 ###
 
@@ -7,6 +7,8 @@
 ###
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
