@@ -1,5 +1,5 @@
-<p align="left">👋 Hi, I’m Alex - @acita<br>👀 I’m interested in PHP, Java, Kotlin, JavaScript, Node, Team Topologies, Software Architeture, Clean Code, DDD ...<br>🌱 I’m currently working with PHP, Kotlin and React...<br>📫 To reach me: alex_cita@hotmail.com or https://www.linkedin.com/in/acita/</p>
-
+<p align="left">👋 Hi, I’m Alex - @acita<br>👀 I’m interested in Typescript, JavaScript, Node, Team Topologies, Software Architeture, DDD ...<br>🌱 I’m currently working with Typescript, PHP, Kotlin with NextJs/React, Quarkus...<br>📫 To reach me: alex_cita@hotmail.com or https://www.linkedin.com/in/acita/</p>
+<hr>
 ###
 
 <h3 align="left">Technologies</h3>
@@ -7,8 +7,17 @@
 ###
 
 <div align="left">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="12" />
+  <br>
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
@@ -19,15 +28,12 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
+  <br>
   <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
 </div>
+
+<hr>
 
 ###
 
